@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+websockets>=12.0
+pyotp
+requests
+python-dotenv
